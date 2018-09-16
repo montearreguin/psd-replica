@@ -1,0 +1,54 @@
+
+nav {
+    background-color: orange;
+    color: white;
+
+}
+
+div.left, div.right, div.right ul, div.right ul li {
+    display: inline-block;
+    box-sizing: border-box;
+}
+div.left {
+	padding-left: 50px;
+}
+
+div.right {
+	padding-right: 55px;
+	text-align: right;
+	width: 75%;
+	font-size: 12px;
+}
+
+div.right ul li {
+	margin: 0 10px;
+}
+
+div.searchbox {
+	background-color: F0F0F0;
+	color: #BDBDBD;
+	text-align: right;
+
+}
+
+img {
+	margin-top: 25%;
+	float: left;
+}
+
+h1 {
+	color: #FE8400;
+	padding-left: 50%;
+	text-align: left;
+	width: 50%;
+	margin-top: 25%;
+}
+
+span {
+	color: 7CCCCB;
+}
+
+span.orangejuice {
+	color: #F68008;
+}
+
